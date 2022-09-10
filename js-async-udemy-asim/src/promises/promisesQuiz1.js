@@ -1,3 +1,5 @@
+// Create a promise version of the async readFile function
+
 const fs = require("fs");
 
 function readFile(filename, encoding) {
